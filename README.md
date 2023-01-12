@@ -7,7 +7,7 @@
 how to use it:
 
 - to get client_id & client_secret, make an spotify app here : https://developer.spotify.com/dashboard/
-- when you have your app, edit settins and add "http://localhost:8888/callback" for the **Redirect URIs** 
+- when you have your app, edit settings and add "http://localhost:8888/callback" for the **Redirect URIs** 
 - python spotiartist.py
 - voilà!
 
